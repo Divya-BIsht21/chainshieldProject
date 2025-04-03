@@ -1,5 +1,5 @@
 # chainshieldProject
-This is a basic structure prepared for internship purpose not a fully functional website but a basic with html css designing and basic javascript
+This is a basic structure  not a fully functional website but a basic with html css designing and basic javascript wiht dajngo
 
 ![Screenshot (18)](https://github.com/user-attachments/assets/f9f241fd-1b92-4386-94ea-f659dd51b9ec)
 ![Screenshot (19)](https://github.com/user-attachments/assets/37886403-798f-4e41-824c-5cd62617b1ac)
